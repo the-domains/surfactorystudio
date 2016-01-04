@@ -1,7 +1,7 @@
 name: Surfactorystudio
 favicon: null
-layout_spectrum: 0.08824772853404284
-typography_spectrum: 0.6218998585827649
+layout_spectrum: 0.49371
+typography_spectrum: 0
 title: Surfactory Design Studio
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#bc8f00'
     - '#8b4700'
     - '#85ffff'
-  brandStrength: 0
-  lightness: 0.817927758442238
-  saturation: 0.009528657654300332
-  rhythmicContrast: 0.21415445511229336
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
