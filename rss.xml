@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Surfactory Design Studio]]></title>
         <description><![CDATA[Surfactory Design Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/surfactorystudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 16:53:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 17:30:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/surfactorystudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ilustração "O Meu Médico"]]></title>
-            <description><![CDATA[<h1>Ilustração "O Meu Médico"</h1>]]></description>
-            <link>undefinedilustracao-o-meu-medico/index.html</link>
+            <description><![CDATA[<article><h1>Ilustração "O Meu Médico"</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ee2b73faa7c8346497d2215350affc5eadb72f6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/surfactorystudio/ilustracao-o-meu-medico/index.html</link>
             <guid isPermaLink="false">9f2ff283-17c3-416d-b3b3-1497c60857b5</guid>
-            <pubDate>Mon, 04 Jan 2016 16:53:16 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 17:30:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
