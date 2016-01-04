@@ -1,0 +1,29 @@
+name: Surfactorystudio
+favicon: null
+layout_spectrum: 0.08824772853404284
+typography_spectrum: 0.6218998585827649
+title: Surfactory Design Studio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7695375254843384
+  lightness: 0.817927758442238
+  saturation: 0.009528657654300332
+  rhythmicContrast: 0.21415445511229336
+purpose: []
